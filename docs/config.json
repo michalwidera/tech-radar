@@ -36,29 +36,37 @@
     {
       "quadrant": 2,
       "ring": 0,
+      "label": "Agile",
+      "link": "https://pl.wikipedia.org/wiki/Programowanie_zwinne",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
       "label": "Linux",
       "link": "https://www.linux.org/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
-      "ring": 1,
+      "quadrant": 1,
+      "ring": 2,
       "label": "Azure",
       "link": "https://azure.microsoft.com/pl-pl",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
-      "ring": 1,
+      "quadrant": 1,
+      "ring": 2,
       "label": "AWS",
       "link": "https://aws.amazon.com/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "CircleCI",
       "link": "https://circleci.com/",
@@ -66,7 +74,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 1,
       "label": "GitHub Actions",
       "link": "https://github.com/features/actions",
@@ -74,7 +82,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Windows",
       "link": "https://www.microsoft.com/pl-pl/windows?r=1",
