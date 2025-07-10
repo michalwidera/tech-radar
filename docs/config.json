@@ -43,6 +43,38 @@
     },
     {
       "quadrant": 2,
+      "ring": 1,
+      "label": "Azure",
+      "link": "https://azure.microsoft.com/pl-pl",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "AWS",
+      "link": "https://aws.amazon.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "CircleCI",
+      "link": "https://circleci.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "GitHub Actions",
+      "link": "https://github.com/features/actions",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
       "ring": 0,
       "label": "Windows",
       "link": "https://www.microsoft.com/pl-pl/windows?r=1",
