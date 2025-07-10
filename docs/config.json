@@ -19,6 +19,14 @@
     },
     {
       "quadrant": 3,
+      "ring": 3,
+      "label": "Sublime",
+      "link": "https://www.sublimetext.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
       "ring": 2,
       "label": "Artifactory",
       "link": "https://jfrog.com/artifactory/",
@@ -115,6 +123,22 @@
     },
     {
       "quadrant": 2,
+      "ring": 0,
+      "label": "Design Patterns",
+      "link": "https://en.wikipedia.org/wiki/Software_design_pattern",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Embbeded Systems",
+      "link": "https://en.wikipedia.org/wiki/Embedded_system",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
       "ring": 1,
       "label": "IoT",
       "link": "https://pl.wikipedia.org/wiki/Internet_rzeczy",
@@ -123,7 +147,7 @@
     },
     {
       "quadrant": 2,
-      "ring": 1,
+      "ring": 2,
       "label": "SOLID",
       "link": "https://pl.wikipedia.org/wiki/SOLID",
       "active": true,
@@ -166,6 +190,38 @@
       "ring": 0,
       "label": "CircleCI",
       "link": "https://circleci.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "Wazuh",
+      "link": "https://wazuh.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "Splunk",
+      "link": "https://wazuh.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "Grafana",
+      "link": "https://grafana.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "InfluxDB",
+      "link": "https://influxdata.com/",
       "active": true,
       "moved": 0
     },
