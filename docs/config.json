@@ -116,6 +116,14 @@
     {
       "quadrant": 2,
       "ring": 1,
+      "label": "IoT",
+      "link": "https://pl.wikipedia.org/wiki/Internet_rzeczy",
+      "active": true,
+      "moved": -1
+    }
+    {
+      "quadrant": 2,
+      "ring": 1,
       "label": "SOLID",
       "link": "https://pl.wikipedia.org/wiki/SOLID",
       "active": true,
