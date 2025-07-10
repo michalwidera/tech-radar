@@ -19,6 +19,14 @@
     },
     {
       "quadrant": 3,
+      "ring": 1,
+      "label": "Vibe Coding",
+      "link": "https://openai.com/pl-PL/index/chatgpt/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
       "ring": 2,
       "label": "Visual Studio",
       "link": "https://visualstudio.microsoft.com/pl/",
@@ -58,6 +66,14 @@
       "moved": 0
     },
     {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Embold.io",
+      "link": "https://embold.io/",
+      "active": true,
+      "moved": 0
+    },
+    {
       "quadrant": 2,
       "ring": 0,
       "label": "Build Pipelines",
@@ -70,6 +86,14 @@
       "ring": 1,
       "label": "Software Requirements",
       "link": "https://en.wikipedia.org/wiki/Software_requirements",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Software Architecture",
+      "link": "https://en.wikipedia.org/wiki/Software_architecture",
       "active": true,
       "moved": 0
     },
@@ -240,6 +264,13 @@
       "quadrant": 0,
       "ring": 3,
       "label": "Ada",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Oracle Forms/Reports",
       "active": true,
       "moved": 0
     },
