@@ -108,6 +108,14 @@
     {
       "quadrant": 2,
       "ring": 0,
+      "label": "SOLID",
+      "link": "https://pl.wikipedia.org/wiki/SOLID",
+      "active": true,
+      "moved": 2
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
       "label": "Cyber Security",
       "link": "https://www.polsl.pl/pob2/cyberbezpieczenstwo/",
       "active": true,
@@ -257,6 +265,13 @@
       "quadrant": 0,
       "ring": 3,
       "label": "Fortran",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Assembler",
       "active": true,
       "moved": 0
     },
