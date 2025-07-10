@@ -36,6 +36,22 @@
     {
       "quadrant": 2,
       "ring": 0,
+      "label": "Build Pipelines",
+      "link": "https://www.pagerduty.com/resources/devops/learn/what-is-a-pipeline-in-devops-and-how-to-build/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Software Requirements",
+      "link": "https://en.wikipedia.org/wiki/Software_requirements",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
       "label": "Agile",
       "link": "https://pl.wikipedia.org/wiki/Programowanie_zwinne",
       "active": true,
@@ -225,6 +241,14 @@
       "label": "cppcheck",
       "active": true,
       "link": "https://cppcheck.sourceforge.io/",
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "dash/plotly",
+      "active": true,
+      "link": "https://dash.plotly.com/",
       "moved": 0
     }
   ]
