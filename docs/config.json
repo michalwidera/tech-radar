@@ -3,23 +3,49 @@
   "entries": [
     {
       "quadrant": 3,
-      "ring": 1,
-      "label": "quadrant 3 ring 1",
-      "link": "https://widera.com.pl",
+      "ring": 0,
+      "label": "VS Code",
+      "link": "https://code.visualstudio.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "vim",
+      "link": "https://www.vim.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Visual Studio",
+      "link": "https://visualstudio.microsoft.com/pl/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "JetBrains",
+      "link": "https://www.jetbrains.com/",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "quadrant 2 ring 0",
+      "label": "Linux",
+      "link": "https://www.linux.org/",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "quadrant 2 ring 0",
+      "label": "Windows",
+      "link": "https://www.microsoft.com/pl-pl/windows?r=1",
       "active": true,
       "moved": 0
     },
@@ -67,7 +93,7 @@
       "quadrant": 0,
       "ring": 2,
       "label": "Rust",
-      "link": "https:/rust-lang.org/",
+      "link": "https://rust-lang.org/",
       "active": true,
       "moved": 0
     },
