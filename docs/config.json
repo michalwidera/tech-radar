@@ -186,6 +186,46 @@
       "label": "Ada",
       "active": true,
       "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "gTest",
+      "active": true,
+      "link": "https://github.com/google/googletest",
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Valgrind",
+      "active": true,
+      "link": "https://valgrind.org/",
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "CMake",
+      "active": true,
+      "link": "https://cmake.org/",
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Conan",
+      "active": true,
+      "link": "https://conan.io/",
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "cppcheck",
+      "active": true,
+      "link": "https://cppcheck.sourceforge.io/",
+      "moved": 0
     }
   ]
 }
