@@ -19,6 +19,14 @@
     },
     {
       "quadrant": 3,
+      "ring": 2,
+      "label": "Artifactory",
+      "link": "https://jfrog.com/artifactory/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
       "ring": 1,
       "label": "Vibe Coding",
       "link": "https://openai.com/pl-PL/index/chatgpt/",
@@ -202,6 +210,14 @@
       "moved": 0
     },
     {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "Terraform ",
+      "link": "https://developer.hashicorp.com/terraform",
+      "active": true,
+      "moved": 0
+    },
+    {
       "quadrant": 0,
       "ring": 0,
       "label": "Python",
@@ -249,7 +265,7 @@
     },
     {
       "quadrant": 0,
-      "ring": 3,
+      "ring": 2,
       "label": "JavaScript",
       "active": true,
       "moved": 0
@@ -279,6 +295,34 @@
       "quadrant": 0,
       "ring": 3,
       "label": "Ada",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "GO",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Pascal",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "Haskell",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "Prolog",
       "active": true,
       "moved": 0
     },
