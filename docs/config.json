@@ -27,6 +27,30 @@
     },
     {
       "quadrant": 3,
+      "ring": 0,
+      "label": "Draw.io",
+      "link": "https://app.diagrams.net/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "PlanUML",
+      "link": "https://plantuml.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "RoadMap",
+      "link": "https://roadmap.sh/cpp",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
       "ring": 3,
       "label": "JetBrains",
       "link": "https://www.jetbrains.com/",
@@ -54,6 +78,14 @@
       "ring": 0,
       "label": "Agile",
       "link": "https://pl.wikipedia.org/wiki/Programowanie_zwinne",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Cyber Security",
+      "link": "https://www.polsl.pl/pob2/cyberbezpieczenstwo/",
       "active": true,
       "moved": 0
     },
@@ -86,6 +118,14 @@
       "ring": 0,
       "label": "CircleCI",
       "link": "https://circleci.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Raspberry Pi",
+      "link": "https://www.raspberrypi.com/",
       "active": true,
       "moved": 0
     },
@@ -200,6 +240,20 @@
       "quadrant": 0,
       "ring": 3,
       "label": "Ada",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "PHP",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "Wordpress",
       "active": true,
       "moved": 0
     },
