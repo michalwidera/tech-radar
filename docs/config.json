@@ -4,7 +4,7 @@
     {
       "quadrant": 3,
       "ring": 1,
-      "label": "quadrant 3 righ 1",
+      "label": "quadrant 3 ring 1",
       "link": "https://widera.com.pl",
       "active": true,
       "moved": 0
@@ -12,28 +12,52 @@
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "quadrant 2 righ 0",
+      "label": "quadrant 2 ring 0",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "quadrant 2 righ 0",
+      "label": "quadrant 2 ring 0",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 1,
       "ring": 0,
-      "label": "quadrant 1 righ 0",
+      "label": "quadrant 1 ring 0",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "quadrant 0 righ 0",
+      "label": "Python",
+      "link": "https://www.python.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "C/C++",
+      "link": "https://en.cppreference.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "Rust",
+      "link": "https:/rust-lang.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "SQL",
       "active": true,
       "moved": 0
     }
