@@ -123,6 +123,14 @@
     },
     {
       "quadrant": 2,
+      "ring": 3,
+      "label": "Quantum Computing",
+      "link": "https://en.wikipedia.org/wiki/Quantum_computing",
+      "active": true,
+      "moved": -2
+    },
+    {
+      "quadrant": 2,
       "ring": 0,
       "label": "Design Patterns",
       "link": "https://en.wikipedia.org/wiki/Software_design_pattern",
@@ -456,6 +464,14 @@
       "label": "cppcheck",
       "active": true,
       "link": "https://cppcheck.sourceforge.io/",
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "QT",
+      "active": true,
+      "link": "https://www.qt.io/",
       "moved": 0
     },
     {
