@@ -26,7 +26,24 @@
     {
       "quadrant": 1,
       "ring": 0,
-      "label": "quadrant 1 ring 0",
+      "label": "Docker",
+      "link": "https://www.docker.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "WSL2",
+      "link": "https://github.com/microsoft/WSL",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "Kubernetes",
+      "link": "https://kubernetes.io/",
       "active": true,
       "moved": 0
     },
@@ -58,6 +75,41 @@
       "quadrant": 0,
       "ring": 0,
       "label": "SQL",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Java",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "JavaScript",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "C#",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Fortran",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Ada",
       "active": true,
       "moved": 0
     }
