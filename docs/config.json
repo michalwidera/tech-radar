@@ -60,6 +60,22 @@
     {
       "quadrant": 3,
       "ring": 0,
+      "label": "gcc",
+      "link": "https://gcc.gnu.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "clang",
+      "link": "https://clang.llvm.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
       "label": "git",
       "link": "https://git-scm.com/",
       "active": true,
