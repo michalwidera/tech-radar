@@ -146,6 +146,14 @@
       "moved": 0
     },
     {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "gcov",
+      "link": "https://gcc.gnu.org/onlinedocs/gcc/Gcov.html",
+      "active": true,
+      "moved": 0
+    },
+    {
       "quadrant": 2,
       "ring": 0,
       "label": "Build Pipelines",
