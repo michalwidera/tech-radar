@@ -211,6 +211,22 @@
     },
     {
       "quadrant": 1,
+      "ring": 2,
+      "label": "mySQL",
+      "link": "https://www.mysql.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "sqlite",
+      "link": "https://www.sqlite.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
       "ring": 3,
       "label": "Splunk",
       "link": "https://wazuh.com/",
@@ -421,10 +437,10 @@
     },
     {
       "quadrant": 0,
-      "ring": 2,
+      "ring": 1,
       "label": "Wordpress",
       "active": true,
-      "moved": 0
+      "moved": 1
     },
     {
       "quadrant": 0,
