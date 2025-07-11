@@ -60,6 +60,14 @@
     {
       "quadrant": 3,
       "ring": 0,
+      "label": "Mold",
+      "link": "https://github.com/rui314/mold",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
       "label": "gcc",
       "link": "https://gcc.gnu.org/",
       "active": true,
