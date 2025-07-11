@@ -60,6 +60,30 @@
     {
       "quadrant": 3,
       "ring": 0,
+      "label": "git",
+      "link": "https://git-scm.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "subversion",
+      "link": "https://pl.wikipedia.org/wiki/Subversion",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Jira",
+      "link": "https://www.atlassian.com/pl/software/jira",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
       "label": "PlanUML",
       "link": "https://plantuml.com/",
       "active": true,
@@ -78,6 +102,22 @@
       "ring": 3,
       "label": "JetBrains",
       "link": "https://www.jetbrains.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Elcipse",
+      "link": "https://www.eclipse.org/downloads/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Emacs",
+      "link": "https://www.gnu.org/software/emacs/",
       "active": true,
       "moved": 0
     },
@@ -206,6 +246,14 @@
       "ring": 0,
       "label": "CircleCI",
       "link": "https://circleci.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "GitHub",
+      "link": "https://github.com/",
       "active": true,
       "moved": 0
     },
