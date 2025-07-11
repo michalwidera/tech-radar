@@ -68,6 +68,30 @@
     {
       "quadrant": 3,
       "ring": 0,
+      "label": "Winerge",
+      "link": "https://winmerge.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Beyond Compare",
+      "link": "https://www.scootersoftware.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Meld",
+      "link": "https://gnome.pages.gitlab.gnome.org/meld/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
       "label": "clang",
       "link": "https://clang.llvm.org/",
       "active": true,
@@ -86,6 +110,30 @@
       "ring": 3,
       "label": "subversion",
       "link": "https://pl.wikipedia.org/wiki/Subversion",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "cvs",
+      "link": "https://pl.wikipedia.org/wiki/Concurrent_Versions_System",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "gerrit",
+      "link": "https://www.gerritcodereview.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Oh My Posh",
+      "link": "https://ohmyposh.dev/",
       "active": true,
       "moved": 0
     },
