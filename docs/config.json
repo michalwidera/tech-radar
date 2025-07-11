@@ -76,6 +76,22 @@
     {
       "quadrant": 3,
       "ring": 0,
+      "label": "SPD Log",
+      "link": "https://github.com/gabime/spdlog",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Boost",
+      "link": "https://www.boost.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
       "label": "Winerge",
       "link": "https://winmerge.org/",
       "active": true,
