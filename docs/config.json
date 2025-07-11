@@ -156,7 +156,7 @@
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "PlanUML",
+      "label": "PlantUML",
       "link": "https://plantuml.com/",
       "active": true,
       "moved": 0
