@@ -499,6 +499,14 @@
     },
     {
       "quadrant": 0,
+      "ring": 2,
+      "label": "ninja",
+      "link": "https://ninja-build.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
       "ring": 0,
       "label": "SQL",
       "active": true,
