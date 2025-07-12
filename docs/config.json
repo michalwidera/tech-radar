@@ -491,6 +491,14 @@
     },
     {
       "quadrant": 0,
+      "ring": 2,
+      "label": "Flutter/Dart",
+      "link": "https://flutter.dev/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
       "ring": 0,
       "label": "SQL",
       "active": true,
