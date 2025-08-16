@@ -1,7 +1,7 @@
 # Motivation
 
-We maintain a [public Tech Radar](http://widera.co.pl) to help our engineering teams
-align on technology choices. It is based on the [pioneering work by ThoughtWorks](https://www.thoughtworks.com/radar).
+We maintain a [public Tech Radar](http://techradar.widera.com.pl) to manage my engineering 
+align on technology choices. It is based on the [pioneering work by ThoughtWorks](https://www.thoughtworks.com/radar) and [Techradar by Zalando](https://github.com/zalando/tech-radar)
 
 This repository contains the code to generate the visualization:
 [`radar.js`](/docs/radar.js) (based on [d3.js v7](https://d3js.org)).
