@@ -499,11 +499,11 @@
     },
     {
       "quadrant": 0,
-      "ring": 2,
+      "ring": 0,
       "label": "ninja",
       "link": "https://ninja-build.org/",
       "active": true,
-      "moved": 0
+      "moved": 2
     },
     {
       "quadrant": 0,
@@ -654,14 +654,6 @@
       "label": "CMake",
       "active": true,
       "link": "https://cmake.org/",
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "ninja",
-      "active": true,
-      "link": "https://ninja-build.org/",
       "moved": 0
     },
     {
