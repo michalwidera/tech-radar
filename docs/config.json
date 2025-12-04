@@ -659,6 +659,14 @@
     {
       "quadrant": 0,
       "ring": 0,
+      "label": "ninja",
+      "active": true,
+      "link": "https://ninja-build.org/",
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
       "label": "Conan",
       "active": true,
       "link": "https://conan.io/",
